@@ -1,1 +1,1 @@
-file1 contents
+echo "file1 contents"
